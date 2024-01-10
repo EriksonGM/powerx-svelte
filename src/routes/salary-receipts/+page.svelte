@@ -1,0 +1,1 @@
+<h1>Recibos de Salario</h1>
