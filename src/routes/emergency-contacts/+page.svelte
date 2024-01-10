@@ -1,1 +1,5 @@
-<h1>Contactos de Emergencia</h1>
+<script>
+	import PageHeader from '../../layout/PageHeader.svelte';
+</script>
+
+<PageHeader title="Contactos de Emergencia"/>

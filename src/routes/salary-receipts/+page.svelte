@@ -1,1 +1,5 @@
-<h1>Recibos de Salario</h1>
+<script>
+import PageHeader from '../../layout/PageHeader.svelte';
+</script>
+
+<PageHeader title="Recibos de Salario"/>

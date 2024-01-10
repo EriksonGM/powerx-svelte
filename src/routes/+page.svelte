@@ -1,13 +1,7 @@
 <script>
 import { IconHome} from '@tabler/icons-svelte';
+import PageHeader from '../layout/PageHeader.svelte';
 </script>
 
-<svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Digital Office - Inicio" />
-</svelte:head>
+<PageHeader title="Inicio"/>
 
-<section>
-<IconHome/>
-	<h2>Ola, seja bemvindo ao Inicio</h2>
-</section>

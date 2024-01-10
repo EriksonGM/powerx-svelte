@@ -1,1 +1,5 @@
-<h1>Noticias</h1>
+<script>
+import PageHeader from '../../layout/PageHeader.svelte';
+</script>
+
+<PageHeader title="Noticias"/>
